@@ -4,3 +4,5 @@ for numbers in range(6):
     for quantities in range(numbers):
         # print the result
         print(numbers, end=" ")
+    # fix the lines of each numbers
+    print("\t")
